@@ -1,0 +1,27 @@
+.ContenedorForm{
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+    
+}
+.Contenedor{
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.ContenedorBtn{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.Header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
